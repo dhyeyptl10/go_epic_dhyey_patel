@@ -1,4 +1,4 @@
-# 🚀 Full Stack Backend Project – 2026
+# 🚀 Full Stack Backend Go Epic – 2026
 
 A production-ready **Node.js + Express + MongoDB** RESTful API backend built with industry-standard practices. Covers all checklist requirements including MVC architecture, JWT authentication, advanced querying, aggregation pipelines, role-based access control, and much more.
 
